@@ -1,5 +1,4 @@
-### Hi there 👋
-<span style="font-weight: medium; color: gray;">k1k2brz / README.md</span>
+### k1k2brz / README.md 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1k2brz&show_icons=true&theme=buefy)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1k2brz&hide=python,powershell&langs_count=6&layout=compact&theme=buefy)
