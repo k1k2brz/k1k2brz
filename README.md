@@ -19,7 +19,7 @@
 
 
 ### Blog 🌱
-<a href="(https://wonderfulwonder.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" /></a>
+<a href="https://wonderfulwonder.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" /></a>
 
 <!--
 **k1k2brz/k1k2brz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
