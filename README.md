@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=Redux&logoColor=white" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vuex-3ddddd?style=flat&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> <br />
 
 
-<img src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwindcss-a5f3fc?style=flat&logo=Tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwindcss-a5f3fc?style=flat&logo=Tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/AWS Lightsail-232F3E?style=flat&logo=amazonaws&logoColor=white" />
